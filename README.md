@@ -8,3 +8,5 @@ Tópicos abordados
 - Funções
 - Arrays
 - Programação Orientada a Objetos (POO)
+- Banco de Dados com MySQL (em breve)
+
