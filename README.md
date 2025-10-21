@@ -53,8 +53,8 @@ Aprender a criar aplicações web dinâmicas com PHP, entender como funciona o p
 ---
 
 # Progresso
-📍 *Início dos estudos:* Outubro de 2025  
-🔜 *Próximo passo:* Aprender **manipulação de formulários e condições**
+ *Início dos estudos:* Outubro de 2025  
+ *Próximo passo:* Aprender **manipulação de formulários e condições**
 
 ---
 
