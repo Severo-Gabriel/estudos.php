@@ -1,5 +1,5 @@
 <?php 
-    // Tipos primitivos: double, string, float, bool, int;
+    // tipos primitivos: double, string, float, bool, int.
 
     $conta = 5+5;
     $nome = "Gabriel";
