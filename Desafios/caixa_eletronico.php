@@ -1,5 +1,5 @@
  <?php 
-        // Valor que a pessoa quer sacar
+        // valor que a pessoa quer sacar.
         $valor = 1550;
         $total = $valor;
 
