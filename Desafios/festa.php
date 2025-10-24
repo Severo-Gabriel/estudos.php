@@ -1,6 +1,6 @@
             <?php 
 
-            #Sistema para inscrição de pessoas +18 anos para uma festa
+            // sistema para inscrição de pessoas +18 anos para uma festa.
             $nome = $_GET ["name"];
             $sobrenome = $_GET ["sobrenome"];
             $idade = $_GET ["idade"];
